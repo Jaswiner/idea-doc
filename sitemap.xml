@@ -8,6 +8,26 @@
   </url>
   
   <url>
+    <loc>https://jaswine.com/docs/idea/docs/plugins/support/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaswine.com/docs/idea/docs/plugins/tool/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaswine.com/docs/idea/docs/tools/jenkins/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaswine.com/docs/idea/docs/tools/jprofile/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jaswine.com/docs/idea/categories/</loc>
     <priority>0</priority>
   </url>

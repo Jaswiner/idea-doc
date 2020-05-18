@@ -20,5 +20,41 @@
  调试流 Java8中提供了Stream操作的API，</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/idea/docs/plugins/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/idea/docs/plugins/support/</guid>
+      <description> 辅助类 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/idea/docs/plugins/tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/idea/docs/plugins/tool/</guid>
+      <description> 工具类 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/idea/docs/tools/jenkins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/idea/docs/tools/jenkins/</guid>
+      <description> IDEA集成Jenkins </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jaswine.com/docs/idea/docs/tools/jprofile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaswine.com/docs/idea/docs/tools/jprofile/</guid>
+      <description> IDEA集成JProfile </description>
+    </item>
+    
   </channel>
 </rss>
